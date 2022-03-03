@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": "Dhruv Shah",
+    "occupation": "Full Stack Web Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "Dhruv_pic.jpg",
+    "bio": "Hi there! I am Dhruv Shah! I am a 3rd year undergraduate student from Indian Institute of Technology Kharagpur.I am a fresher wanting to start my career as a full stack web developer. I have a great passion in learning new things and am a great team player.I have some experience with javascript, React.js as frontend framework and node.js/express.js as backend.I also have basic understanding of SQL and NoSQL databases. I am currently learning Web3.",
+    "contactmessage": "Get in touch with me :)",
+    "email": "test@gmail.com",
+    "phone": "+91 1234567890",
+    "address": {
+      "street": "St. Anthony road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400 071"
+    },
+    "website": "https://www.google.com/",
+    "resumedownload": "./images/Dhruv_Shah_Resume.pdf",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/ds-1201",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dhruv-1201",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Indian Institute of Technology Kharagpur",
+        "degree": "Dual Degree, Mining Safety Engineering",
+        "graduated": "July 2024 (expected)",
+        "description": "Graduated with CGPA 8.25/10."
+      }
+    ],
+    "work": [
+      {
+        "company": "KHARAGUR DATA ANALYTICS GROUP",
+        "title": "Senior Web Developer - Full Time",
+        "years": "JUNE 2021 - PRESENT",
+        "description": "Is involved and lead the team for designing task round for selection of junior web developers.Reviewed the submission and took interview of candidates selected in task round.Lead the web team to develop and deploy the KDAG’s own blog website from scratch.Coordinated with the design team and core team members to add contents to the website"
+      },
+      {
+        "company": "OVALKEYS TECH",
+        "title": "FULLSTACK DEVELOPER - INTERNSHIP",
+        "years": "AUGUST 2021 - DECEMBER 2021",
+        "description": "Developed and deployed end to end transportation management system from scratch.Using React as frontend, Nodejs/Express.js as backend and My SQL as Database.Deployed the project on Heroku. "
+      },
+      {
+        "company": "FINTRACT GLOBAL",
+        "title": "SOFTWARE DEVELOPMENT - INTERNSHIP",
+        "years": "MAY 2021 - AUGUST 2021",
+        "description": "Conduct day to day coordination, planning and implementation across multiple projects.Developed an authentication system which uses face recognition and behavioural patterns to authenticate users.Using React as frontend framework, Material UI for designing, Django for backend and Mongo Db as database.Build RESTful APIs in Node.js and used Mongo Db as database to create backend for chatbot."
+      }
+    ],
+
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Node/Express",
+        "level": "65%"
+      },
+      {
+        "name": "RESTful APIs",
+        "level": "65%"
+      },
+
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "25%"
+      },
+      {
+        "name": "Material UI",
+        "level": "75%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "65%"
+      },
+      {
+        "name": "Git/GitHub",
+        "level": "50%"
+      },
+      {
+        "name": "C++",
+        "level": "75%"
+      },
+      {
+        "name": "Problem Solving",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "25%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
