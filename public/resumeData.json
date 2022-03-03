@@ -1,46 +1,36 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Dhruv Shah",
+    "occupation": "Full Stack Web Developer",
     "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "image": "Dhruv_pic.jpg",
+    "bio": "Hi there! I am Dhruv Shah! I am a 3rd year undergraduate student from Indian Institute of Technology Kharagpur.I am a fresher wanting to start my career as a full stack web developer. I have a great passion in learning new things and am a great team player.I have some experience with javascript, React.js as frontend framework and node.js/express.js as backend.I also have basic understanding of SQL and NoSQL databases. I am currently learning Web3.",
+    "contactmessage": "Get in touch with me :)",
+    "email": "test@gmail.com",
+    "phone": "+91 1234567890",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "St. Anthony road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400 071"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.google.com/",
+    "resumedownload": "https://www.google.com/",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
+        "name": "github",
+        "url": "https://github.com/ds-1201",
+        "className": "fa fa-github"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/dhruv-1201",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
       }
     ]
   },
@@ -48,40 +38,82 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Indian Institute of Technology Kharagpur",
+        "degree": "Dual Degree, Mining Safety Engineering",
+        "graduated": "July 2024 (expected)",
+        "description": "Graduated with CGPA 8.25/10."
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "KHARAGUR DATA ANALYTICS GROUP",
+        "title": "Senior Web Developer - Full Time",
+        "years": "JUNE 2021 - PRESENT",
+        "description": "Is involved and lead the team for designing task round for selection of junior web developers.Reviewed the submission and took interview of candidates selected in task round.Lead the web team to develop and deploy the KDAG’s own blog website from scratch.Coordinated with the design team and core team members to add contents to the website"
+      },
+      {
+        "company": "OVALKEYS TECH",
+        "title": "FULLSTACK DEVELOPER - INTERNSHIP",
+        "years": "AUGUST 2021 - DECEMBER 2021",
+        "description": "Developed and deployed end to end transportation management system from scratch.Using React as frontend, Nodejs/Express.js as backend and My SQL as Database.Deployed the project on Heroku. "
+      },
+      {
+        "company": "FINTRACT GLOBAL",
+        "title": "SOFTWARE DEVELOPMENT - INTERNSHIP",
+        "years": "MAY 2021 - AUGUST 2021",
+        "description": "Conduct day to day coordination, planning and implementation across multiple projects.Developed an authentication system which uses face recognition and behavioural patterns to authenticate users.Using React as frontend framework, Material UI for designing, Django for backend and Mongo Db as database.Build RESTful APIs in Node.js and used Mongo Db as database to create backend for chatbot."
       }
     ],
+
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "75%"
+      },
+      {
+        "name": "Node/Express",
+        "level": "65%"
+      },
+      {
+        "name": "RESTful APIs",
+        "level": "65%"
+      },
+
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "25%"
+      },
+      {
+        "name": "Material UI",
+        "level": "75%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "65%"
+      },
+      {
+        "name": "Git/GitHub",
+        "level": "50%"
+      },
+      {
+        "name": "C++",
+        "level": "75%"
+      },
+      {
+        "name": "Problem Solving",
+        "level": "50%"
       },
       {
         "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
+        "level": "25%"
       }
     ]
   },
